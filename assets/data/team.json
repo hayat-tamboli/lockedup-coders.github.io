@@ -1,3 +1,4 @@
+  
 [
   {
     "name": "Yash Kumar Verma",
@@ -58,10 +59,28 @@
   {
     "name": "Aryan Vats",
     "role": "contributor",
-    "profile_pic": "aryan.png",
+    "profile_pic": "aryan.jpg",
     "email": "avats101@gmail.com",
     "github_link": "avats101",
     "linkedIn_link": "aryan-vats"
+  },
+  {
+<<<<<<< HEAD
+    "name": "Hayat Tamboli",
+    "role": "contributor",
+    "profile_pic": "hayat.jpg",
+    "email": "hayat.tamboli@gmail.com",
+    "github_link": "hayat-tamboli",
+    "linkedIn_link": "hayat-tamboli"
+  },{
+||||||| e33e68f
+=======
+    "name": "Arpit Upadhyay",
+    "role": "contributor",
+    "profile_pic": "arpit.jpg",
+    "email": "arpit.au.upadhyay@gmail.com",
+    "github_link": "https://github.com/ausome197",
+    "linkedIn_link": ""
   },
   {
     "name": "Hayat Tamboli",
@@ -70,12 +89,47 @@
     "email": "hayat.tamboli@gmail.com",
     "github_link": "hayat-tamboli",
     "linkedIn_link": "hayat-tamboli"
-  },{
+  },
+  {
+>>>>>>> e372a905d7d396f00a6055cdfac4e32a5e1f75a6
     "name": "Sourav Paul",
     "role": "contributor",
-    "profile_pic": "sourav.jpeg",
+    "profile_pic": "sourav.jpg",
     "email": "souravpaul@protonmail.com",
     "github_link": "souravpaul8",
     "linkedIn_link": "souravpaul8"
+  },
+  {
+  	"name": "Vaishnav Srinidhi",
+	"role": "contributor",
+	"profile_pic": "Vaishnav.jpg",
+	"email": "vaishnavsrinidhi@gmail.com",
+	"github_link": "https://github.com/V41SH",
+	"linkedIn_link": "www.linkedin.com/in/vaishnav-srinidhi"
+  },
+  {
+    "name": "Versha Mishra",
+    "role": "contributor",
+    "profile_pic": "versha_mishra.jpg",
+    "email": "vershamishra13@gmail.com",
+    "github_link": "VershaCoder",
+    "linkedIn_link": "versha-mishra-4b4376125"
+  },
+  {
+    "name": "Dhairya Ostwal",
+    "role": "contributor",
+    "profile_pic": "dhairya.jpg",
+    "email": "dhairyacontact@gmail.com",
+    "github_link": "dhairyaostwal",
+    "linkedIn_link": "www.linkedin.com/in/dhairyaostwal/"
+
+  },
+  {
+    "name":"Rajat Mehta",
+    "role":"contributor",
+    "profile_pic":"rajat_mehta.jpg",
+    "email":"imrajatmehta@gmai.com",
+    "github_link":"imrajatmehta",
+    "linkedIn_link":"rajat-mehta-4103a7160/"
   }
 ]
