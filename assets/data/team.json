@@ -65,16 +65,6 @@
     "linkedIn_link": "aryan-vats"
   },
   {
-<<<<<<< HEAD
-    "name": "Hayat Tamboli",
-    "role": "contributor",
-    "profile_pic": "hayat.jpg",
-    "email": "hayat.tamboli@gmail.com",
-    "github_link": "hayat-tamboli",
-    "linkedIn_link": "hayat-tamboli"
-  },{
-||||||| e33e68f
-=======
     "name": "Arpit Upadhyay",
     "role": "contributor",
     "profile_pic": "arpit.jpg",
@@ -91,7 +81,6 @@
     "linkedIn_link": "hayat-tamboli"
   },
   {
->>>>>>> e372a905d7d396f00a6055cdfac4e32a5e1f75a6
     "name": "Sourav Paul",
     "role": "contributor",
     "profile_pic": "sourav.jpg",
