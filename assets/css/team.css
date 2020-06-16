@@ -1,13 +1,19 @@
-img{
-	border-radius: 50%;
-	float: left;
+img {
+  border-radius: 50%;
+  float: left;
 }
-.flexbox{
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: center;
-	align-items: center;
+.flexbox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 }
-.flexbox div{
-	margin: 1rem;
+.flexbox div {
+  margin: 1rem;
+}
+.image_hover {
+  transition: transform 0.2s;
+}
+.image_hover:hover {
+  transform: scale(1.2);
 }

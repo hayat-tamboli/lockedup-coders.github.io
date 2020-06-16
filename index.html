@@ -23,16 +23,7 @@
       crossorigin="anonymous"
     />
     <title>Our Team</title>
-    <style>
-      .image_hover {
-        transition: transform 0.2s;
-      }
-      .image_hover:hover {
-        transform: scale(1.2);
-      }
-    </style>
   </head>
-
   <body>
     <div class="container">
       <div class="jumbotron text-center">
@@ -61,15 +52,15 @@
           success: (data) => {
             data.forEach((item) => {
               element.append(`<div class=" image_hover d-flex flex-column justify-content-center align-items-center">
-                                            <img width="150" height="150" src="./assets/images/${item.profile_pic}" /> 
-                                            <div class="d-flex flex-column justify-content-center align-items-center">
-                                                <p class="text-secondary">${item.name}</p >
-                                                <div>
-                                                    <a href="https://linkedin.com/in/${item.linkedIn_link}" target="_blank" class="mr-1 ml-1"><i class="fab fa-linkedin fa-2x" style="color:#0072b1;"></i></a>
-                                                    <a href="https://github.com/${item.github_link}" target="_blank" class="mr-1 ml-1" ><i class="fab fa-github-square fa-2x" style="color:#211f1f;"></i></a>
-                                                </div>
-                                            </div> 
-                                        </div>`);
+                                <img width="150" height="150" src="./assets/images/${item.profile_pic}" /> 
+                                <div class="d-flex flex-column justify-content-center align-items-center">
+                                    <p class="text-secondary">${item.name}</p >
+                                    <div>
+                                        <a href="https://linkedin.com/in/${item.linkedIn_link}" target="_blank" class="mr-1 ml-1"><i class="fab fa-linkedin fa-2x" style="color:#0072b1;"></i></a>
+                                        <a href="https://github.com/${item.github_link}" target="_blank" class="mr-1 ml-1" ><i class="fab fa-github-square fa-2x" style="color:#211f1f;"></i></a>
+                                    </div>
+                                </div> 
+                              </div>`);
             });
           },
         });
